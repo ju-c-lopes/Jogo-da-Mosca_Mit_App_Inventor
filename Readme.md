@@ -12,3 +12,5 @@ Aperfeiçoando a prática,<br>
 personalização,<br>
 adicionando níveis até o 7,<br>
 escolha continue ou não se perder.<br>
+<br>
+Caso deseje, é só importar o <arquivo_codigo.aia> para a plataforma de criação no site do Mit App Inventor.
