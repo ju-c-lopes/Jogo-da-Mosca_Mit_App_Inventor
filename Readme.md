@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>#Jogo da Mosca</h1>
 <br>
 Jogo feito no Mit App Inventor<br>
