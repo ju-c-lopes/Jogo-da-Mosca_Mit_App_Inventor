@@ -14,10 +14,3 @@ adicionando níveis até o 7,<br>
 escolha continue ou não se perder.<br>
 <br>
 Caso deseje, é só importar o <arquivo_codigo.aia> para a plataforma de criação no site do Mit App Inventor.
-=======
-#Jogo da Mosca
-
-  jogo feito no Mit App Inventor
-  Aula da Faculdade (Univesp - Pensamento Computacional)
-  aprimorado do básico, com níveis, continue até o nivel 7
->>>>>>> cdd6b9b19eda452365882a2e243f8376ccdeef7f
